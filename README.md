@@ -6,7 +6,7 @@ The client W. Avy would like more information about temperature trends before op
 
 ### Analysis
 
-For June we have 1700 data points:
+For <b>June</b> we have 1700 data points:
 
 ![image](https://user-images.githubusercontent.com/100727593/167261707-47b2c44d-6060-4a1f-bed0-b964288c9108.png)
 
@@ -14,7 +14,7 @@ For June we have 1700 data points:
 - The highest recorded temperature of 85°f 
 - The lowest recorded temperature of 64°f.
 
-In December we have fewer data points at 1517 counts: 
+In <b>December</b> we have fewer data points at 1517 counts: 
 
 ![image](https://user-images.githubusercontent.com/100727593/167261816-b923a125-371f-40b8-970a-eaf05529e412.png) 
 
